@@ -3,7 +3,7 @@
 POST_URL="http://localhost:8080/trabalho" 
 
 JSON_BODY='{
-  "titulo": "Curl Test",
+  "titulo": "Curl Teste 9",
   "descricao": "Testing POST with curl",
   "grupo": "TestGroup",
   "nota": 7,
