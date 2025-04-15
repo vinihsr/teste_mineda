@@ -1,6 +1,6 @@
 #!/bin/bash
 
-POST_URL="http://localhost:8080/trabalho/este/7" 
+POST_URL="http://localhost:8080/livro/Java/2022-10-22" 
 
 
 curl -X GET \

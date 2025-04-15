@@ -1,13 +1,11 @@
 #!/bin/bash
 
-POST_URL="http://localhost:8080/trabalho" 
+POST_URL="http://localhost:8080/livro" 
 
 JSON_BODY='{
-  "titulo": "Curl Teste 9",
-  "descricao": "Testing POST with curl",
-  "grupo": "TestGroup",
-  "nota": 7,
-  "justificativa": "Sent from curl"
+  "titulo": "The Art of Java",
+  "edicao": 2,
+  "genero": "Tech"
 }'
 
 echo ""

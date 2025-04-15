@@ -1,6 +1,6 @@
 #!/bin/bash
 
-POST_URL="http://localhost:8080/trabalho" 
+POST_URL="http://localhost:8080/livro" 
 
 curl -X GET \
      -H "Content-Type: application/json" \
